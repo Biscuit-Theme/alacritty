@@ -4,12 +4,12 @@ colors:
     foreground: '#2D2424'
   normal:
     black: '#483939'
-    red: '#B54851'
-    green: '#D0796D'
-    yellow: '#C6846C'
-    blue: '#938579'
-    magenta: '#877B85'
-    cyan: '#794F65'
+    red: '#AE4750'
+    green: '#C6695D'
+    yellow: '#CD9165'
+    blue: '#97916F'
+    magenta: '#7B727E'
+    cyan: '#83546B'
     white: '#E0CFC6'
   bright:
     black: '#9C8181'
